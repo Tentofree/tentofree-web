@@ -1,0 +1,57 @@
+{
+    "language":"اللغة",
+    "en":"إنجليزي",
+    "ar":"عربي",
+    "joinNow" : "انضم الان",
+
+    "alert":"تنبيه",
+    "doUWantToExitTheApp":"هل تريد الخروج من التطبيق؟",
+    "yes":"نعم",
+    "no":"لا",
+
+    "skip":"تخطي",
+    "next":"التالي",
+    "howDoesItWork" : "كيف يعمل",
+    "downloadTentofreeApp":"تنزيل تطبيق tenofree",
+    "goToYourFavouriteStore" : "اذهب إلى متجرك المفضل",
+    "shareWithYourCommunity" : "شارك مع مجتمعك",
+    "saveAndGetYourDiscount":"وفر واحصل على خصمك",
+    "helpingBusinessToGrowAndExpand" : "مساعدة الأعمال على النمو والتوسع",
+    "pack":"حزمة",
+    "voucher":"قسيمة",
+    "vendor":"بائع",
+    "user":"مستخدم",
+    "company" : "شركة",
+    "aboutTentofree" : "نبذة عن Tentofree",
+    "securityAndPrivacy" : "الأمان والخصوصية",
+    "pressAndMedia" : "الصحافة والاعلام",
+    "workWithUs" : "العمل معنا",
+    "carrers" : "المهن",
+    "becomePartner" : "كن شريكا",
+    "business" : "الأعمال",
+    "legal" : "قانوني",
+    "endUserAgreement" : "اتفاقية المستخدم النهائي",
+    "termOfSale" : "شروط البيع",
+    "ourTerms" : "شروطنا",
+    "privacyPolicy" : "سياسة الخصوصية",
+    "getInTouch" : "تواصل معنا",
+    "FAQs" : "FAQs",
+    "contactUs" : "اتصل بنا",
+    "helpCenter" : "مركز المساعدة"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+}

@@ -1,0 +1,46 @@
+{
+    "language":"Language",
+    "en":"EN",
+    "ar":"AR",
+    "joinNow" : "Join Now",
+    "alert":"Alert",
+    "doUWantToExitTheApp":"Do you want to exit the app?",
+    "yes":"Yes",
+    "no":"No",
+
+    "skip":"Skip",
+    "next":"Next",
+    "howDoesItWork" : "How Does it Work",
+    "downloadTentofreeApp":"Download tentofree app",
+    "goToYourFavouriteStore" : "Go to your favourite store",
+    "shareWithYourCommunity" : "Share with your community",
+    "saveAndGetYourDiscount":"Save & get your discount",
+    "helpingBusinessToGrowAndExpand" : "Helping Business to grow and expand",
+    "pack":"Pack",
+    "voucher":"Voucher",
+    "vendor":"Vendor",
+    "user":"User",
+    "company" : "Company",
+    "aboutTentofree" : "About tentofree",
+    "securityAndPrivacy" : "Security & Privacy",
+    "pressAndMedia" : "Press & media",
+    "workWithUs" : "Work with us",
+    "carrers" : "Carrers",
+    "becomePartner" : "Become a partner",
+    "business" : "Business",
+    "legal" : "Legal",
+    "endUserAgreement" : "End user Agreement",
+    "termOfSale" : "Term of sale",
+    "ourTerms" : "Our Terms",
+    "privacyPolicy" : "Privacy Policy",
+    "getInTouch" : "Get in touch",
+    "FAQs" : "FAQs",
+    "contactUs" : "Contact us",
+    "helpCenter" : "Help center"
+
+
+    
+
+
+
+}
